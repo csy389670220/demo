@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="884496d0-e16a-4798-a9af-7c500a0c7efd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-1/src/main/build/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/MyWebMvcConfigurerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/MyWebMvcConfigurerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/KickoutSessionControlFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/KickoutSessionControlFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisCacheManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisCacheManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RedisSessionDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RetryLimitHashedCredentialsMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/RetryLimitHashedCredentialsMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/SessionInMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/SessionInMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSessionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSessionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSessionListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/config/shiro/ShiroSessionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/global/exceptions/PrincipalIdNullException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/global/exceptions/PrincipalInstanceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/global/utils/CaptchaUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/global/utils/SerializeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/modules/login/CaptchaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/modules/login/CaptchaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/modules/login/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/java/com/springboot/test/shiro/modules/login/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/config/ehcache-shiro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/sql/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/sql/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-10/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-11/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-11/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-11/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-11/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-13/src/main/java/com/springboot/test/shiro/config/shiro/ShiroRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-13/src/main/java/com/springboot/test/shiro/config/shiro/ShiroRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-13/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-13/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-13/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-13/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-6/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-6/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/java/com/springboot/test/shiro/modules/login/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/java/com/springboot/test/shiro/modules/login/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-7/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-9/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-9/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-9/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-shiro-9/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-shiro-9/src/main/resources/config/application.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/global/utils/CaptchaUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="46" column="31" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1474">
+              <caret line="83" column="71" selection-start-line="83" selection-start-column="57" selection-end-line="83" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/modules/login/CaptchaController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#h1#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>refreshCaptcha</find>
+      <find>getRandColor</find>
+      <find>captcha_img</find>
+      <find>Captcha</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/config/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-shiro-8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-shiro-8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566962910953" />
+    <property name="last_opened_file_path" value="E:/workspace2/server/springboot+shiro+redis+日志设置/ShiroDemo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-shiro-8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.test.shiro.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="884496d0-e16a-4798-a9af-7c500a0c7efd" name="Default Changelist" comment="" />
+      <created>1566961726259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566961726259</updated>
+      <workItem from="1566961731658" duration="1195000" />
+      <workItem from="1567127877316" duration="1012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2207000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/modules/login/CaptchaController.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/config/MyWebMvcConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/global/utils/CaptchaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/modules/login/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="83" column="71" selection-start-line="83" selection-start-column="57" selection-end-line="83" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springboot/test/shiro/modules/login/CaptchaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/spring-boot-shiro-8.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/debug/spring-boot-shiro-8_debug.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#h1#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
